@@ -11,10 +11,8 @@ namespace Xadrez
             try
             {
                 PartidaDeXadrez partida = new PartidaDeXadrez();
-
                 while (!partida.terminada)
                 {
-
                     try
                     {
                         Console.Clear();
@@ -50,7 +48,6 @@ namespace Xadrez
             {
                 Console.WriteLine(e.Message);
             }
-
             Console.ReadLine();
         }
     }
