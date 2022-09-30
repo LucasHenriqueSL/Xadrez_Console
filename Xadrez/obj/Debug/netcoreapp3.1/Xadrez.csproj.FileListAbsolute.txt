@@ -1,0 +1,14 @@
+D:\Users\lucas.lara\source\repos\Xadrez\Xadrez\bin\Debug\netcoreapp3.1\Xadrez.exe
+D:\Users\lucas.lara\source\repos\Xadrez\Xadrez\bin\Debug\netcoreapp3.1\Xadrez.deps.json
+D:\Users\lucas.lara\source\repos\Xadrez\Xadrez\bin\Debug\netcoreapp3.1\Xadrez.runtimeconfig.json
+D:\Users\lucas.lara\source\repos\Xadrez\Xadrez\bin\Debug\netcoreapp3.1\Xadrez.runtimeconfig.dev.json
+D:\Users\lucas.lara\source\repos\Xadrez\Xadrez\bin\Debug\netcoreapp3.1\Xadrez.dll
+D:\Users\lucas.lara\source\repos\Xadrez\Xadrez\bin\Debug\netcoreapp3.1\Xadrez.pdb
+D:\Users\lucas.lara\source\repos\Xadrez\Xadrez\obj\Debug\netcoreapp3.1\Xadrez.csproj.AssemblyReference.cache
+D:\Users\lucas.lara\source\repos\Xadrez\Xadrez\obj\Debug\netcoreapp3.1\Xadrez.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\lucas.lara\source\repos\Xadrez\Xadrez\obj\Debug\netcoreapp3.1\Xadrez.AssemblyInfoInputs.cache
+D:\Users\lucas.lara\source\repos\Xadrez\Xadrez\obj\Debug\netcoreapp3.1\Xadrez.AssemblyInfo.cs
+D:\Users\lucas.lara\source\repos\Xadrez\Xadrez\obj\Debug\netcoreapp3.1\Xadrez.csproj.CoreCompileInputs.cache
+D:\Users\lucas.lara\source\repos\Xadrez\Xadrez\obj\Debug\netcoreapp3.1\Xadrez.dll
+D:\Users\lucas.lara\source\repos\Xadrez\Xadrez\obj\Debug\netcoreapp3.1\Xadrez.pdb
+D:\Users\lucas.lara\source\repos\Xadrez\Xadrez\obj\Debug\netcoreapp3.1\Xadrez.genruntimeconfig.cache
